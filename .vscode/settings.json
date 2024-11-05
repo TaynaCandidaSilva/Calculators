@@ -3,6 +3,8 @@
         "**/__pycache__": true,
         "**/designer-codigo": true,
         "**/.pytest_cache": true,
-        "**/README.md": true
+        "**/README.md": true,
+        "**/class.py": true,
+        "**/ex_typing.py": true
     }
 }
